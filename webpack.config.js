@@ -13,7 +13,8 @@ module.exports = {
   // entry: "./src/composite/index.ts",
   // entry: "./src/factorymethod/index.ts",
   // entry: "./src/observer/index.ts",
-  entry: "./src/proxy/index.ts",
+  // entry: "./src/proxy/index.ts",
+  entry: "./src/facade/index.ts",
   devtool: "inline-source-map",
   module: {
     rules: [
